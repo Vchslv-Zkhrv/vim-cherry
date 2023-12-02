@@ -1,14 +1,19 @@
 # About
 
 Vim-Cherry is a simple, high-contrast theme with single accent color.
+<br>
+**Installation**
+
+```vim script
+Plug ('Vchslv-Zkhrv/vim-cherry')
+```
 
 
 ## Screenshots
 
-Font: JetBrains Mono
-
 ![dark](./screenshots/dark.png)
 ![light](./screenshots/light.png)
+Font: JetBrains Mono
 
 
 ## Features
