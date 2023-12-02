@@ -1,20 +1,17 @@
 # About
----------
 
 Vim-Cherry is a simple, high-contrast theme with single accent color.
 
 
 ## Screenshots
----------
 
 Font: JetBrains Mono
 
 ![dark](./screenshots/dark.png)
-![light](./screenshots/dark.png)
+![light](./screenshots/light.png)
 
 
 ## Features
----------
 
 - Hight-contrast, easy to read
 - Light and dark versions
@@ -23,7 +20,6 @@ Font: JetBrains Mono
 
 
 ## Inspired by
----------
 
 - The main reference: [huyvohcmc/atlas.vim](https://github.com/huyvohcmc/atlas.vim)
 - Very similar to: [stefanvanburen/rams.vim](https://github.com/stefanvanburen/rams.vim)
