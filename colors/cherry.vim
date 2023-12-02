@@ -13,7 +13,7 @@ function! Hi(name, fg, bg="NONE", style="NONE")
 endfunction
 
 
-let g:colors_name = "vim-cherry"
+let g:colors_name = "cherry"
 
 
 let s:NN = "NONE"
