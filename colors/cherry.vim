@@ -16,7 +16,7 @@ endfunction
 let g:colors_name = "cherry"
 
 
-# palette
+" palette
 let s:NN = "NONE"
 let s:B0 = &background ==# "dark" ? "#0d0d0d" : "#ffffff"
 let s:B1 = &background ==# "dark" ? "#1d1d1d" : "#eeeeee"
@@ -29,7 +29,7 @@ let s:F0 = &background ==# "dark" ? "#ffffff" : "#000000"
 let s:C0 = &background ==# "dark" ? "#f43753" : "#de0d29"
 
 
-# main colors
+" main colors
 call Hi("ColorColumn",  s:NN, s:B3)
 call Hi("CursorColumn", s:NN, s:B3)
 call Hi("CursorLine",   s:NN, s:B3)
@@ -91,10 +91,10 @@ call Hi("Error",        s:F0, s:NN)
 call Hi("Todo",         s:F0, s:C0)
 call Hi("Include",      s:C0, s:NN)
 
-# C language
+" C language
 call Hi("cInclude",      s:C0, s:NN)
 call Hi("cDefine",       s:C0, s:NN)
 call Hi("cStructure",    s:C0, s:NN)
 call Hi("cStorageClass", s:C0, s:NN)
-call Hi("cType",         s:F2, s:NN)
+call Hi("cType",         s:F1, s:NN)
 
